@@ -5,9 +5,10 @@
   </div>
   
   <!-- 打字效果 -->
-  <div>
-    <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=2800&pause=10&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Joe%2C+Welcome+to+my+github" width="70%" />
-  </div>
+<div>
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=1500&pause=10&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Joe%2C+Welcome+to+my+github" width="70%" />
+</div>
+
   
   <!-- GitHub Stats -->
 <div>
